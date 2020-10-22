@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: ea6851788c615c2409a3f962f8c5e482
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2708157915861427102
+    second: BatmanPoder_0
+  - first:
+      213: 4923257639560289817
+    second: BatmanPoder_1
+  - first:
+      213: 2650606613628699876
+    second: BatmanPoder_2
+  - first:
+      213: -4940878303234044490
+    second: BatmanPoder_3
+  - first:
+      213: 7500028621170659670
+    second: BatmanPoder_4
+  - first:
+      213: 7769814390004301666
+    second: BatmanPoder_5
+  - first:
+      213: 2880216256965322084
+    second: BatmanPoder_6
+  - first:
+      213: 3090362280439907134
+    second: BatmanPoder_7
+  - first:
+      213: 7126370024913944771
+    second: BatmanPoder_8
+  - first:
+      213: -3119470158132881838
+    second: BatmanPoder_9
+  - first:
+      213: -628581165856040274
+    second: BatmanPoder_10
+  - first:
+      213: 2804319804370981427
+    second: BatmanPoder_11
+  - first:
+      213: 442419874161972011
+    second: BatmanPoder_12
+  - first:
+      213: -4306248866026259966
+    second: BatmanPoder_13
+  - first:
+      213: 8833249534001227893
+    second: BatmanPoder_14
+  - first:
+      213: -956381702030170078
+    second: BatmanPoder_15
+  - first:
+      213: -6351958199706828600
+    second: BatmanPoder_16
+  - first:
+      213: 2598138933617315839
+    second: BatmanPoder_17
+  - first:
+      213: 7234431079542092228
+    second: BatmanPoder_18
+  - first:
+      213: 896953200819677864
+    second: BatmanPoder_19
+  - first:
+      213: 8867303605637066716
+    second: BatmanPoder_20
+  - first:
+      213: 864208270473324239
+    second: BatmanPoder_21
+  - first:
+      213: -1307898235804773376
+    second: BatmanPoder_22
+  - first:
+      213: 4759627278922676112
+    second: BatmanPoder_23
+  - first:
+      213: 6523603357179445682
+    second: BatmanPoder_24
+  - first:
+      213: 6432404735899724993
+    second: BatmanPoder_25
+  - first:
+      213: 8388119782541428767
+    second: BatmanPoder_26
+  - first:
+      213: 948823542847831158
+    second: BatmanPoder_27
+  - first:
+      213: 6691151717139368059
+    second: BatmanPoder_28
+  - first:
+      213: 3825923706092253984
+    second: BatmanPoder_29
+  - first:
+      213: 7298569428170971949
+    second: BatmanPoder_30
+  - first:
+      213: -276780442325642532
+    second: BatmanPoder_31
+  - first:
+      213: -6147186343386854646
+    second: BatmanPoder_32
+  - first:
+      213: 6450949036719293903
+    second: BatmanPoder_33
+  - first:
+      213: 7047728536254504666
+    second: BatmanPoder_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatmanPoder_0
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 14
+        width: 92
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cda6559b0ba6ad0800000000000000
+      internalID: -2708157915861427102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 11
+        width: 86
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e18b71dbce25440800000000000000
+      internalID: 4923257639560289817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 77
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4c3aceba8d8c420800000000000000
+      internalID: 2650606613628699876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 18
+        width: 49
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdcc417c597e6bb0800000000000000
+      internalID: -4940878303234044490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_4
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 80
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d32a4b44751860800000000000000
+      internalID: 7500028621170659670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_5
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 77
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fbcee750de3db60800000000000000
+      internalID: 7769814390004301666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46529b8fc6598f720800000000000000
+      internalID: 2880216256965322084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 18
+        width: 70
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3303e0ee1c23ea20800000000000000
+      internalID: 3090362280439907134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 18
+        width: 60
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0ccf0d7c3f5e260800000000000000
+      internalID: 7126370024913944771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 60
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256de093b6a65b4d0800000000000000
+      internalID: -3119470158132881838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 18
+        width: 80
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa56a092c4d647f0800000000000000
+      internalID: -628581165856040274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_11
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 9
+        width: 88
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33210201102fae620800000000000000
+      internalID: 2804319804370981427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_12
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 52
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b235ff0188ac32600800000000000000
+      internalID: 442419874161972011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_13
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 73
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a731ac8712d34c0800000000000000
+      internalID: -4306248866026259966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 66
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578278e86a1069a70800000000000000
+      internalID: 8833249534001227893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 72
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228eeccb8ef3ab2f0800000000000000
+      internalID: -956381702030170078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 25
+        width: 60
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c04856ebaf49d7a0800000000000000
+      internalID: -6351958199706828600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff4f5738917e0420800000000000000
+      internalID: 2598138933617315839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1f628bcbcd56460800000000000000
+      internalID: 7234431079542092228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 69
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa1031f2e927c00800000000000000
+      internalID: 896953200819677864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 52
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfa989f5adfe0b70800000000000000
+      internalID: 8867303605637066716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 54
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6648dd7d84efb00800000000000000
+      internalID: 864208270473324239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 30
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0041f7ceb7969dde0800000000000000
+      internalID: -1307898235804773376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_23
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 40
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f177eac79d0240800000000000000
+      internalID: 4759627278922676112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 36
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b10a3890be788a50800000000000000
+      internalID: 6523603357179445682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 38
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce7d6e60e744950800000000000000
+      internalID: 6432404735899724993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_26
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 30
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f180fc30086986470800000000000000
+      internalID: 8388119782541428767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_27
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 40
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf8f13cf5ea2d00800000000000000
+      internalID: 948823542847831158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_28
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 30
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b784656190fbbdc50800000000000000
+      internalID: 6691151717139368059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_29
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 12
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023ff5f0759681530800000000000000
+      internalID: 3825923706092253984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_30
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 14
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b18a6b93ab94560800000000000000
+      internalID: 7298569428170971949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_31
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 14
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2976677ada82cf0800000000000000
+      internalID: -276780442325642532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_32
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 10
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b4b42079ec0baa0800000000000000
+      internalID: -6147186343386854646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_33
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 6
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc54dc568ff568950800000000000000
+      internalID: 6450949036719293903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatmanPoder_34
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 6
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade55d463cf8ec160800000000000000
+      internalID: 7047728536254504666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
